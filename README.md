@@ -13,3 +13,27 @@ Probably the most important step, I needed to figure out what I needed to do to 
 Much of the assignment was a repeat of methods I learned and used to communicate with an SQL database. The major difference was understanding and applying new methods associated with MongoDB.
 
 The biggest challenge was familiarizing myself with the MongoDB and Mongoose methods and functions. I had a lot of difficulty understanding how to use MongoDB's version of the ID, and I struggled to find out how to search by ID as I couldn't find the right syntax. Console logging was a huge help in this assignment, allowing me to see exactly what was being passed through (if the program even gets that far).
+
+
+## Tech Used
+- HTML
+- CSS
+- Bootstrap
+- Javascript
+- Node.js
+- Express
+- MongoDB
+
+## Installation
+```
+git clone git@github.com:achaudhry93/Fitness-Tracker-HW.git
+
+cd (to local folder)
+
+npm install
+
+npm start
+```
+## Repository
+
+  - [Project Repo](https://github.com/achaudhry93/Fitness-Tracker-HW)
